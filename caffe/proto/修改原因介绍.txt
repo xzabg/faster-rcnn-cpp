@@ -1,0 +1,1 @@
+因为将LRN添加到layer_factory.cpp中之后，LRNParameter_Engine引擎没有定义
